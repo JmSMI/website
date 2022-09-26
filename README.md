@@ -1,2 +1,2 @@
-# work-blog
-I'm writing about my experiences doing gig work in Vancouver.
+# Website
+This is a practice space I'm using to learn front end development.
